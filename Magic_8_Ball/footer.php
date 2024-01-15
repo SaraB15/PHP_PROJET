@@ -1,6 +1,6 @@
 <?php
      
-    session_start (); // doit etre dans les deux fichiers dans php
+   
 ?>
 
 
